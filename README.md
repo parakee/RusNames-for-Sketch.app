@@ -16,7 +16,7 @@ NOTE: you need Sketch 2.1.2 or later.
 
 ## Demo
 
-[![Demo Video](https://dl.dropboxusercontent.com/u/1909742/sketch-plugin/thumb.png)](http://www.youtube.com/watch?v=BX97WXqb454)
+[![Demo Video](https://photos-2.dropbox.com/t/0/AAClvF82EcmyME-Wz72HtsQbgpizwglkirjyq5PPL55ChA/12/1641179/png/1024x768/3/1400601600/0/2/RusNames.png/LFKawrXKRiFIXLSZAcFbFTQpb-mHPH4GxC7poZFfqV8)](http://www.youtube.com/watch?v=BX97WXqb454)
 
  
 [Twitter](https://twitter.com/parakee140)
