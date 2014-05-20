@@ -1,5 +1,6 @@
-Russian Names Generator — plugin for [Sketch](http://www.bohemiancoding.com/sketch/)!
+Russian Names Generator for Sketch.app
 =======================
+##plugin for [Sketch](http://www.bohemiancoding.com/sketch/)!
 
 Генератор русских имен. Создает имена в формате [Фамилия Имя Отчество] или [Имя Фамилия]
 
