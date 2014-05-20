@@ -18,9 +18,6 @@ NOTE: you need Sketch 2.1.2 or later.
 
 [![Demo Video](https://dl.dropboxusercontent.com/u/1909742/sketch-plugin/thumb.png)](http://www.youtube.com/watch?v=ZJCYUCU7YxQ)
 
-## Thanks:
-* [@bohemiancoding](https://twitter.com/bohemiancoding) for the awesome Sketch.
-* [@timuric](https://github.com/timuric) for his content generator.
-* 
+ 
 [Twitter](https://twitter.com/parakee140)
 [Facebook](https://www.facebook.com/ramil.shaihutdinov)
