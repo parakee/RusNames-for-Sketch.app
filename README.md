@@ -17,3 +17,6 @@ NOTE: you need Sketch 2.1.2 or later.
 ## Thanks:
 * [@bohemiancoding](https://twitter.com/bohemiancoding) for the awesome Sketch.
 * [@timuric](https://github.com/timuric) for his content generator.
+* 
+[Twitter](https://twitter.com/parakee140)
+[Facebook](https://www.facebook.com/ramil.shaihutdinov)
