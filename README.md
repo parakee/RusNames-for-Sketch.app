@@ -16,7 +16,7 @@ NOTE: you need Sketch 2.1.2 or later.
 
 ## Demo
 
-[![Demo Video](http://imageshack.com/a/img836/7771/hiwo.png)](http://www.youtube.com/watch?v=BX97WXqb454)
+[![Demo Video](http://imageshack.com/a/img836/7771/hiwo.png)](https://vimeo.com/95864992)
 
  
 [Twitter](https://twitter.com/parakee140)
